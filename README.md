@@ -1,18 +1,6 @@
 - 👋 Hola, Yo soy @0xProdigy 
 
-Soy desarrollador web en el stack back-end usando PHP como lenguaje principal de desarrollo, también soy pentester Junior utilizando la plataforma
-Hack The Box para mejorar mis habilidades y aprender. 
-
-- 👀 Estoy interesado en ...
- 
-Desarrollo de software Web mediante las tecnologías back-end: PHP, Framwork Laravel. De igual manera utilizando para el fron-end: Bootstrap
-
-Platilla Livewire, Jetstream. 
- 
-- 🌱 Actualmente estoy aprendiendo...
-
-Desarrollo web, tanto como a los desafíos de máquinas en Hack the Box, utilizando memétodos de pentesting para verificar si existen
-vectores de ataque al software que desarrollo como a sistema de servidores que administro.
+Apasionado por la informática y los intrincados caminos de la tecnología, encuentro mi fascinación en explorar los aspectos más profundos del mundo digital. Más que un simple aficionado, el hacking ético es mi campo de exploración, donde desentraño los sistemas en busca de vulnerabilidades para fortalecer la seguridad cibernética. La música es mi alivio, el gimnasio mi escape y el diseño gráfico mi lienzo de expresión. Encuentro el equilibrio entre desafiar los límites digitales y cultivar mi bienestar físico y creativo. En cada línea de código, diseño gráfico o melodía, busco no solo la excelencia, sino también la ética y la armonía en todas mis pasiones.
 
 - 📫 como llegar a mi ...
 https://discord.gg/ucv9mZJXZe

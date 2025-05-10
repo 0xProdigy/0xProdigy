@@ -1,1 +1,5 @@
-Apasionado por la informática y los intrincados caminos de la tecnología, encuentro mi fascinación en explorar los aspectos más profundos del mundo digital. Más que un simple aficionado, el hacking ético es mi campo de exploración, donde desentraño los sistemas en busca de vulnerabilidades para fortalecer la seguridad cibernética. La música es mi alivio, el gimnasio mi escape y el diseño gráfico mi lienzo de expresión. Encuentro el equilibrio entre desafiar los límites digitales y cultivar mi bienestar físico y creativo. En cada línea de código, diseño gráfico o melodía, busco no solo la excelencia, sino también la ética y la armonía en todas mis pasiones.
+💻 Apasionado por la informática y explorador del mundo digital, me especializo en hacking ético y seguridad cibernética, donde analizo sistemas en busca de vulnerabilidades para hacerlos más seguros.
+
+🎧 La música es mi equilibrio, el gimnasio mi escape, y el diseño gráfico mi vía creativa.
+
+🎯 Busco excelencia técnica sin perder de vista la ética y el bienestar personal. Ya sea en una línea de código, un diseño o una melodía, siempre persigo armonía, propósito y mejora constante.
